@@ -1,1 +1,7 @@
-# Second-Home-Task
+# Second Home Task
+
+
+
+Домашнее задание номер 2.
+
+Автор: Митрошин К.В.
